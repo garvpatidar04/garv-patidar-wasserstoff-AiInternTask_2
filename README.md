@@ -11,15 +11,17 @@ This project implements a robust pipeline for ingesting, parsing, and processing
 ## Requirements
 
 - Python 3.10.5
-- MongoDB (local or cloud instance)
+- MongoDB (local server or may be cloud if have an account on Atlas)
 - Required Python packages (listed in `requirements.txt`)
 
 ## Installation
 
 1. **Clone the Repository**:
-   ```bash
+
+   ```
    git clone https://github.com/garvpatidar04/garv-patidar-wasserstoff-AiInternTask.git
-   cd project_folder```
+   cd project_folder
+   ```
 
 2. **Set Up a Virtual Environment (optional but recommended)**:
   python -m venv venv
