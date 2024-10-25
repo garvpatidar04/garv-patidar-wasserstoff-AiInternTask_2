@@ -1,0 +1,190 @@
+INFO:root:Connected to MongoDB successfully
+INFO:db_connection:Processing 17 PDF files.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf1.pdf.
+INFO:db_connection:Text cleaning is done of pdf1.pdf.
+INFO:db_connection:Summerizing pdf1.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf1.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf1.pdf.
+INFO:db_connection:Extracting Keywords from pdf1.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf1.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf10.pdf.
+INFO:db_connection:Text cleaning is done of pdf10.pdf.
+INFO:db_connection:Summerizing pdf10.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf10.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf10.pdf.
+INFO:db_connection:Extracting Keywords from pdf10.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf10.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf11.pdf.
+INFO:db_connection:Text cleaning is done of pdf11.pdf.
+INFO:db_connection:Summerizing pdf11.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf11.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf11.pdf.
+INFO:db_connection:Extracting Keywords from pdf11.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf11.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf12.pdf.
+INFO:db_connection:Text cleaning is done of pdf12.pdf.
+INFO:db_connection:Summerizing pdf12.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf12.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf12.pdf.
+INFO:db_connection:Extracting Keywords from pdf12.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf12.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf13.pdf.
+INFO:db_connection:Text cleaning is done of pdf13.pdf.
+INFO:db_connection:Summerizing pdf13.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf13.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf13.pdf.
+INFO:db_connection:Extracting Keywords from pdf13.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf13.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf14.pdf.
+INFO:db_connection:Text cleaning is done of pdf14.pdf.
+INFO:db_connection:Summerizing pdf14.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf14.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf14.pdf.
+INFO:db_connection:Extracting Keywords from pdf14.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf14.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf15.pdf.
+INFO:db_connection:Text cleaning is done of pdf15.pdf.
+INFO:db_connection:Summerizing pdf15.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf15.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf15.pdf.
+INFO:db_connection:Extracting Keywords from pdf15.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf15.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf17.pdf.
+INFO:db_connection:Text cleaning is done of pdf17.pdf.
+INFO:db_connection:Summerizing pdf17.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf17.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf17.pdf.
+INFO:db_connection:Extracting Keywords from pdf17.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf17.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf18.pdf.
+INFO:db_connection:Text cleaning is done of pdf18.pdf.
+INFO:db_connection:Summerizing pdf18.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf18.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf18.pdf.
+INFO:db_connection:Extracting Keywords from pdf18.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf18.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf2.pdf.
+INFO:db_connection:Text cleaning is done of pdf2.pdf.
+INFO:db_connection:Summerizing pdf2.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf2.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf2.pdf.
+INFO:db_connection:Extracting Keywords from pdf2.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf2.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf3.pdf.
+INFO:db_connection:Text cleaning is done of pdf3.pdf.
+INFO:db_connection:Summerizing pdf3.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf3.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf3.pdf.
+INFO:db_connection:Extracting Keywords from pdf3.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf3.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf4.pdf.
+INFO:db_connection:Text cleaning is done of pdf4.pdf.
+INFO:db_connection:Summerizing pdf4.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf4.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf4.pdf.
+INFO:db_connection:Extracting Keywords from pdf4.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf4.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf5.pdf.
+INFO:db_connection:Text cleaning is done of pdf5.pdf.
+INFO:db_connection:Summerizing pdf5.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf5.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf5.pdf.
+INFO:db_connection:Extracting Keywords from pdf5.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf5.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf6.pdf.
+INFO:db_connection:Text cleaning is done of pdf6.pdf.
+INFO:db_connection:Summerizing pdf6.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf6.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf6.pdf.
+INFO:db_connection:Extracting Keywords from pdf6.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf6.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf7.pdf.
+INFO:db_connection:Text cleaning is done of pdf7.pdf.
+INFO:db_connection:Summerizing pdf7.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf7.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf7.pdf.
+INFO:db_connection:Extracting Keywords from pdf7.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf7.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf8.pdf.
+INFO:db_connection:Text cleaning is done of pdf8.pdf.
+INFO:db_connection:Summerizing pdf8.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf8.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf8.pdf.
+INFO:db_connection:Extracting Keywords from pdf8.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf8.pdf.
+INFO:db_connection:Added metadata to the database
+INFO:db_connection:Text is extracted from pdf9.pdf.
+INFO:db_connection:Text cleaning is done of pdf9.pdf.
+INFO:db_connection:Summerizing pdf9.pdf.
+INFO:db_connection:Summarization is done from scratch, not with LLM
+INFO:db_connection:Summerization of pdf9.pdf is done.
+INFO:db_connection:Extracting Keywords from pdf9.pdf.
+INFO:db_connection:Extracting Keywords from pdf9.pdf is completed.
+INFO:db_connection:Updated database for summary and keywords
+INFO:db_connection:Updated the database with summary and keywords
+INFO:db_connection:Successfully processed PDFs/pdf9.pdf.
+INFO:db_connection:Total time taken: 163.1677151999902
