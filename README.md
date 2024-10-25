@@ -10,7 +10,7 @@ This project implements a robust pipeline for ingesting, parsing, and processing
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.10.5
 - MongoDB (local or cloud instance)
 - Required Python packages (listed in `requirements.txt`)
 
